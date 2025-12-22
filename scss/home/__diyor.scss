@@ -1,3 +1,56 @@
+.flexibity {
+}
+.flexibility__in {
+  display: flex;
+}
+.flexibility__img {
+}
+.flexibility__content {
+  width: 448px;
+  height: 343px;
+  top: 4897px;
+  left: 832px;
+  angle: 0 deg;
+  opacity: 1;
+  background-color: #e9672b;
+  text-align: center;
+  padding: 60px 0;
+}
+.flexibility__icon {
+  margin: 0 auto;
+
+}
+.flexibility__title {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 36px;
+  leading-trim: NONE;
+  line-height: 44px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #ffffff;
+  margin: 24px 0 32px 0;
+}
+.flexibility__btn {
+  width: 272px;
+  height: 60px;
+  top: 5120px;
+  left: 920px;
+  angle: 0 deg;
+  opacity: 1;
+  border-radius: 88px;
+  background-color: #ffffff;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 18px;
+  leading-trim: NONE;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
 .apartment {
   background-color: #f6cfca;
   height: 612px;
@@ -21,7 +74,6 @@
   justify-content: space-between;
 }
 .apartment__img {
-    
 }
 
 .furniture {
