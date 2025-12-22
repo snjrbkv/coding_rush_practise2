@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Muller";
+  src: url("/font/Muller-Trial-Regular.otf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Muller";
+}
+.container {
+  max-width: 1512px;
+  margin: 0 auto;
+  padding: 0 129px;
+}
+img {
+  display: block;
+}
+input {
+  outline: none;
+}
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
