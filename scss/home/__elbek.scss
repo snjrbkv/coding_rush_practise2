@@ -1,10 +1,14 @@
 footer {
   position: relative;
+  background-color: #F3F0EC;
+  height: 650px;
 }
 .footer__in {
   display: flex;
+  justify-content: space-around;
 }
 .footer__Furniture {
+    padding-top: 82px;
 }
 .footer__title {
   font-weight: 400;
@@ -30,6 +34,7 @@ footer {
   color: #000000;
 }
 .media {
+    padding-top: 82px;
 }
 .footer__imgs {
   display: flex;
