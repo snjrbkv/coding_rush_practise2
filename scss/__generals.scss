@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Muller";
-  src: url("/font/Muller-Trial-Regular.otf");
+  font-family: "Roboto";
+  src: url("../font/Roboto-VariableFont_wdth\,wght.ttf");
 }
 
 * {
@@ -9,12 +9,11 @@
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
-  font-family: "Muller";
+  font-family: "Roboto";
 }
 .container {
-  max-width: 1512px;
+  max-width: 1280px;
   margin: 0 auto;
-  padding: 0 129px;
 }
 img {
   display: block;
@@ -27,4 +26,3 @@ button {
   border: none;
   background: none;
 }
-
