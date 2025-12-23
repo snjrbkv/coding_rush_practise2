@@ -1,0 +1,272 @@
+body {
+  background-color: #1b1b1b;
+}
+
+.marcs {
+  background-color: #1b1b1b;
+}
+.container {
+}
+.marcs__in {
+}
+.marcs__title {
+  font-family: "GetVoIP Grotesque";
+  font-weight: 700;
+  font-style: Regular;
+  font-size: 32px;
+  leading-trim: NONE;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.marcs__text {
+  font-family: "Geologica";
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  leading-trim: NONE;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 15px;
+}
+.marcs__cards {
+  display: flex;
+  gap: 30px;
+  margin-top: 44px;
+}
+.card {
+  display: flex;
+  vertical-align: middle;
+  align-items: center;
+  width: 170px;
+  height: 128px;
+  top: 1010px;
+  left: 335px;
+  angle: 0 deg;
+  opacity: 1;
+  border-radius: 20px;
+  background-color: #252525;
+}
+.card__img--tayota {
+  margin-left: 40px;
+}
+
+.card__img--volvo {
+  margin-left: 51px;
+}
+
+.card__img--wv {
+  margin-left: 51px;
+}
+
+.card__img--opel {
+  margin-left: 42px;
+}
+
+.card__img--mini {
+  margin-left: 25px;
+}
+.card__img--honda {
+  margin-left: 48px;
+}
+
+.marcs__btns {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 44px;
+}
+.btn__left {
+  width: 44px;
+  height: 44px;
+  top: 1182px;
+  left: 672px;
+  angle: 0 deg;
+  opacity: 1;
+  backdrop-filter: blur(24px);
+  border-radius: 50%;
+  background: #d43228;
+  padding: 10px 9px;
+}
+.marcs__btns--left {
+}
+.btn__right {
+  width: 44px;
+  height: 44px;
+  top: 1182px;
+  left: 672px;
+  angle: 0 deg;
+  opacity: 1;
+  backdrop-filter: blur(24px);
+  border-radius: 50%;
+  background: #d43228;
+  padding: 10px 9px;
+}
+.marcs__btn--right {
+}
+
+// marcs-end
+
+// all-start
+
+.all {
+}
+.container {
+}
+.all__in {
+}
+.all__title {
+  font-family: "GetVoIP Grotesque";
+  font-weight: 700;
+  font-style: Regular;
+  font-size: 32px;
+  leading-trim: NONE;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.all__text {
+  font-family: "Geologica";
+  font-weight: 300;
+  font-style: Light;
+  font-size: 16px;
+  leading-trim: NONE;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 12px;
+}
+.all__cards {
+  margin-top: 45px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.cards {
+  width: 370px;
+  height: 252px;
+  top: 1502px;
+  left: 135px;
+  angle: 0 deg;
+  opacity: 1;
+  border-radius: 30px;
+  background: #252525;
+  padding: 32px;
+}
+.card__flex {
+  display: flex;
+  justify-content: space-between;
+}
+.flex__title {
+  font-family: "Geologica";
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 20px;
+  leading-trim: NONE;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+.flex__nimber {
+  font-family: "Geologica";
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 20px;
+  leading-trim: NONE;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: right;
+  color: #535353;
+}
+.card__title {
+  font-family: "Geologica";
+  font-weight: 300;
+  font-style: Light;
+  font-size: 14px;
+  leading-trim: NONE;
+  line-height: 20px;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  color: #ffffff;
+  margin-top: 40px;
+}
+.card__btn--flex {
+  gap: 25px;
+  margin-top: 38px;
+  align-items: center;
+  display: flex;
+}
+
+.card__btn--flex03 {
+  gap: 25px;
+  margin-top: 28px;
+  align-items: center;
+  display: flex;
+}
+
+.card__btn--flex04 {
+  gap: 25px;
+  margin-top: 45px;
+  align-items: center;
+  display: flex;
+}
+.card__btn--flex05 {
+  gap: 25px;
+  margin-top: 65px;
+  align-items: center;
+  display: flex;
+}
+.card__btn--flex06 {
+  gap: 25px;
+  margin-top: 65px;
+  align-items: center;
+  display: flex;
+}
+
+.card__btn {
+  width: 178px;
+  height: 44px;
+  top: 1678px;
+  left: 167px;
+  angle: 0 deg;
+  opacity: 1;
+  border-radius: 60px;
+  padding-top: 12px;
+  padding-right: 30px;
+  padding-bottom: 12px;
+  padding-left: 30px;
+  gap: 10px;
+  font-family: "Geologica";
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 14px;
+  leading-trim: NONE;
+  line-height: 20px;
+  letter-spacing: 0%;
+  background: #d43228;
+  color: #ffffff;
+}
+.card__link {
+  font-family: "Geologica";
+  font-weight: 300;
+  font-style: Light;
+  font-size: 14px;
+  leading-trim: NONE;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-offset: 0%;
+  text-decoration-thickness: 0%;
+  color: #d43228;
+}
+
+// all-end
