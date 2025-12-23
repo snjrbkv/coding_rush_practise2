@@ -152,10 +152,9 @@
   color: #ffffff;
 }
 .evacuator__btn {
-  display: flex;
 }
 .eva__btn {
-  width: 350px;
+  width: 317px;
   height: 72px;
   opacity: 1;
   top: 226px;
@@ -168,6 +167,8 @@
   gap: 20px;
   background-color: #69ab40;
   padding: 20px;
+  display: flex;
+  margin-top: 20px;
 }
 .evacuator__btn--p {
   width: 199px;
@@ -183,4 +184,7 @@
   text-transform: uppercase;
 }
 .evacuator__img {
+  width: 44px;
+  height: 44px;
+  opacity: 1;
 }
