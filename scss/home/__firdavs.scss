@@ -1,0 +1,246 @@
+.budget {
+}
+
+.budget_wrap {
+  display: flex;
+  color: #1b1b1b;
+  align-items: center;
+  flex-direction: column;
+}
+.budget_title {
+  font-family: GetVoIP Grotesque;
+  font-weight: 700;
+  font-style: Regular;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.budget_text {
+  margin: 30px 0;
+  font-family: Geologica;
+  font-weight: 300;
+  font-style: Light;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.budget_card-wrap {
+  display: flex;
+  gap: 30px;
+}
+.budget_card {
+  background-image: url(../assets/firdavs/card1.png);
+  width: 370px;
+  height: 260px;
+  opacity: 1;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 30px;
+}
+.budget_card:nth-child(2) {
+  background-image: url(../assets/firdavs/card2.png);
+  width: 370px;
+  height: 260px;
+  opacity: 1;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 30px;
+}
+.budget_card:nth-child(3) {
+  background-image: url(../assets/firdavs/card3.png);
+  width: 370px;
+  height: 260px;
+  opacity: 1;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 30px;
+}
+.budget_card-title {
+  color: white;
+  font-family: Geologica;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+.budget_card-text {
+  font-family: Geologica;
+  font-weight: 300;
+  font-style: Light;
+  font-size: 14px;
+  color: white;
+  line-height: 20px;
+  letter-spacing: 0%;
+}
+.budget_card-link {
+  font-family: Geologica;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 16px;
+  color: white;
+  line-height: 20px;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 0%;
+}
+.budget_card-link:nth-child(2) {
+  font-family: Geologica;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 0%;
+  color: red;
+}
+.budget_btn-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-top: 44px;
+  margin-bottom: 60px;
+}
+.budget_btn {
+  background-color: red;
+  padding: 15px 14px;
+  border-radius: 100%;
+}
+.budget_btn:nth-child(2) {
+  background-color: red;
+  padding: 15px 14px;
+  transform: rotate(180deg);
+  border-radius: 100%;
+}
+.strelka {
+}
+
+.wag_card {
+  color: white;
+  width: 370px;
+  height: 466px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 32px;
+  opacity: 1;
+  border-radius: 30px;
+  background-image: url("../assets/firdavs/wagcard.png");
+}
+.wag_card:nth-child(1) {
+  width: 370px;
+  height: 466px;
+  opacity: 1;
+  border-radius: 30px;
+  background-image: url("../assets/firdavs/wagcard2.png");
+}
+.wag_card:nth-child(3) {
+  width: 370px;
+  height: 466px;
+  opacity: 1;
+  border-radius: 30px;
+  background-image: url("../assets/firdavs/wagcard3.png");
+}
+.wag_card-title-wrap {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  gap: 32px;
+}
+.wag_card-span {
+  padding: 12px 30px;
+  background-color: white;
+  color: red;
+  width: 110px;
+
+  border-radius: 100px;
+}
+.wag_card-title {
+  font-family: Geologica;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+.wag_card-text {
+  font-family: Geologica;
+  font-weight: 300;
+  font-style: Light;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0%;
+}
+.wag_card-btn-warp {
+}
+.wag_btn-title {
+  font-family: Geologica;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 16px;
+
+  line-height: 20px;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+}
+.wag_card-btn {
+  font-family: Geologica;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 14px;
+  padding: 12px 30px;
+  line-height: 20px;
+  background-color: red;
+  color: white;
+  border-radius: 100px;
+  margin-top: 20px;
+  letter-spacing: 0%;
+}
+.budget_btn-wrap {
+}
+.budget_btn {
+}
+.strelka {
+}
+.lucwe_card {
+  background-image: url("../assets/firdavs/coment.png");
+  width: 270px;
+  height: 273px;
+  opacity: 1;
+  border-radius: 30px;
+}
+.lucwe_card:nth-child(2) {
+  background-image: url("../assets/firdavs/coment2.png");
+  width: 270px;
+  height: 273px;
+  opacity: 1;
+  border-radius: 30px;
+}
+.lucwe_card:nth-child(3) {
+  background-image: url("../assets/firdavs/coment3.png");
+  width: 270px;
+  height: 273px;
+  opacity: 1;
+  border-radius: 30px;
+}
+.lucwe_card:nth-child(4) {
+  background-image: url("../assets/firdavs/coment4.png");
+  width: 270px;
+  height: 273px;
+  opacity: 1;
+  border-radius: 30px;
+}
